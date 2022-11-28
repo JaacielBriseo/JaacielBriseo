@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my [portfolio](https://portfolio-jb-v1.netlify.app/home)
 
-- 🌱 I’m currently learning **python** and **MySQL**
+- 🌱 I’m currently learning **Python** and **MySQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JaacielBriseo?tab=repositories](https://github.com/JaacielBriseo?tab=repositories)
 
