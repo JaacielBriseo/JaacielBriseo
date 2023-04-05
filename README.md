@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jaaciel Briseño</h1>
 <h3 align="center">A passionate frontend developer from Hermosillo, Sonora</h3>
 
-- 🔭 I’m currently working on my [portfolio](https://portfolio-jb-v1.netlify.app/home)
-
-- 🌱 I’m currently learning **Python** and **MySQL**
-
-- 👨‍💻 All of my projects are available at [https://github.com/JaacielBriseo?tab=repositories](https://github.com/JaacielBriseo?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://portfolio-jbe.vercel.app/]
 
 - 📫 How to reach me **jaacielbris23@gmail.com**
 
