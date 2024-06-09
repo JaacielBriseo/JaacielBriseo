@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jaaciel Briseño</h1>
 <h3 align="center">A passionate fullstack developer from Hermosillo, Sonora</h3>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-jbe.vercel.app/](https://portfolio-jbe.vercel.app/)
+- 👨‍💻 Portfolio available at [https://jaacielb.dev/](https://jaacielb.dev/)
 
 - 📫 How to reach me **jaacielbris23@gmail.com**
 
